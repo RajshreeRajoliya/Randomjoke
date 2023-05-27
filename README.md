@@ -1,4 +1,6 @@
 # Random joke generator
 
-![image](https://github.com/RajshreeRajoliya/chatbot/assets/113670900/3ccf0f95-ff0a-490a-b81b-56898716e248)
+![RandomJoke](https://github.com/RajshreeRajoliya/Randomjoke/assets/113670900/5c18110a-f773-4280-a285-afb93c8fcd9b)
+
+
 
